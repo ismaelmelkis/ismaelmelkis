@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ismaelmelkis
-- 👀 I’m interested in  Python, JS, Node JS, Laravel, PHP, Angular, Vue.js, Mysql, PostgresSQL, SQL, Firebird,  data science, 
-- 🌱 I’m currently learning  data science, Python, React, react Native
-- 💞️ I’m looking to collaborate on PHP, Laravel, JS
+- 👀 I’m interested in  Python, JS, Node JS, Laravel, PHP, Angular,  Mysql, Quasar, Ionic, PostgresSQL, SQL, Firebird,  data science
+- 🌱 I’m currently learning  Data Science, AI, Machine Learning, Deep Learning, Python
+- 💞️ I’m looking to collaborate on PHP, Laravel, Filament, Vuejs, Mysql, PostgresSQL, SQL, Firebird, JS, Python
 - 📫 How to reach me  ismaelmelkis@gmail.com
 
 <!---
