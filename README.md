@@ -23,4 +23,4 @@ Feel free to reach out to me at:
 
 ---
 
-Let's code, learn, and create together! 🚀
+Let's code! 🚀
