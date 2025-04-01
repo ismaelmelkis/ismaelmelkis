@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @ismaelmelkis
-- 👀 I’m interested in  Python, JS, Node JS, Laravel, PHP, Angular,  Mysql, Quasar, Ionic, PostgresSQL, SQL, Firebird,  data science
-- 🌱 I’m currently learning  Data Science, AI, Machine Learning, Deep Learning, Python
-- 💞️ I’m looking to collaborate on PHP, Laravel, Filament, Vuejs, Mysql, PostgresSQL, SQL, Firebird, JS, Python
-- 📫 How to reach me  ismaelmelkis@gmail.com
+# Hi there! 👋
 
-<!---
-ismaelmelkis/ismaelmelkis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm **Ismael Melkis** ([@ismaelmelkis](https://github.com/ismaelmelkis))  
+Welcome to my GitHub profile!
+
+## About Me
+- 🔭 **Currently working on**: Data Science, AI, Machine Learning, Deep Learning with Python.
+- 🌱 **Learning**: Diving deeper into **Data Science** and **AI**, exploring **Machine Learning** and **Deep Learning** techniques.
+- 👨‍💻 **Tech Stack**: 
+  - **Backend**: PHP, Laravel, Node.js, SQL (MySQL, PostgreSQL, Firebird).
+  - **Frontend**: JavaScript, Angular, Vue.js, Quasar, Ionic.
+  - **Other**: Python, Data Science, Machine Learning.
+  
+## What I'm Looking For
+- 🤝 **Open to collaborations** on:
+  - **Backend**: PHP, Laravel, Filament, SQL (MySQL, PostgreSQL, Firebird).
+  - **Frontend**: Vue.js, Angular, JavaScript.
+  - **Data Science**: Python, Data Analysis, AI, ML.
+  
+## 📫 How to Reach Me
+Feel free to reach out to me at:  
+📧 **Email**: [ismaelmelkis@gmail.com](mailto:ismaelmelkis@gmail.com)
+
+---
+
+Let's code, learn, and create together! 🚀
